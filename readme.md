@@ -10,4 +10,5 @@ https://box-monkey.github.io/GravityWell/
 #### responsive design
 - as stated above, site optimized for regular screens, tablets and smaller screens such as phones.
 
-##### screen shot
+##### projects
+- I've added temporary work as placeholders to be removed/replaced from one of my side careers once computer based projects are completed.
