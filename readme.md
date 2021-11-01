@@ -12,3 +12,9 @@ https://box-monkey.github.io/GravityWell/
 
 ##### projects
 - I've added temporary work as placeholders to be removed/replaced from one of my side careers once computer based projects are completed.
+
+###### screen shots 
+![GravityWell](./assets/images/Gwell.png)
+![GravityWell](./assets/images/Gwell1.png)
+![GravityWell](./assets/images/Gwell3.png)
+![GravityWell](./assets/images/Gwell4.png)
